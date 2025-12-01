@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ブレーメン - Bremen",
+  "base_artist": "BAK",
+  "createdAt": "2025-12-01T17:28:40.101656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_ブレーメン_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_ブレーメン_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/03_ブレーメン_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_ブレーメン_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブレーメン - Bremen",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_ブレーメン_-_Bremen_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_ブレーメン_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブレーメン",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/07_ブレーメン_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブレーメン; bremen",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_ブレーメン;_bremen_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ブレーメン - Bremen",
+      "artist": "BAK",
+      "has_synced": true,
+      "path": "select/09_ブレーメン_-_Bremen_BAK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレーメン",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_ブレーメン_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ブレーメン BREMEN",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_02_ブレーメン_BREMEN_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ブレーメンのおんがくたい",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_03_ブレーメンのおんがくたい_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Bremen",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_04_Bremen_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ブレーメン",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_05_ブレーメン_くるり.txt"
+    }
+  ]
+}
